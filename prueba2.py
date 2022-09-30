@@ -1,0 +1,1 @@
+n = int(input("Ingresa un numero porfavor: "))
